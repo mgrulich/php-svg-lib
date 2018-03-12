@@ -1,5 +1,5 @@
 {
-  "name": "phenx/php-svg-lib",
+  "name": "mgrulich/php-svg-lib",
   "type": "library",
   "description": "A library to read, parse and export to PDF SVG files.",
   "homepage": "https://github.com/PhenX/php-svg-lib",
